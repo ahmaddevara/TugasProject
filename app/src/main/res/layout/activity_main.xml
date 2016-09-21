@@ -57,7 +57,7 @@
             android:id="@+id/textViewAbsen"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nomor Absen"
+            android:text="Nomor Urut"
             android:textColor="#40DBBA"
             android:textSize="16dp"
             android:textStyle="bold" />
