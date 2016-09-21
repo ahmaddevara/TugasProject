@@ -25,7 +25,7 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama Lengkap"
+            android:text="Nama"
             android:textColor="#40DBBA"
             android:textSize="16dp"
             android:textStyle="bold" />
